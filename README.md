@@ -1,6 +1,6 @@
 # Child Mind Institute - Problematic Internet Usage (Kaggle Competition)
 
-![<Internet Use image>](Images/internet_use.jpeg "Images/internet_use.jpeg")
+![<Internet Use image>](Images/internet_use.jpeg "Images/internet_use.jpeg" height="200", width="300")
 
 
 ## Business Problem
