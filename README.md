@@ -1,6 +1,6 @@
 # Child Mind Institute - Problematic Internet Usage (Kaggle Competition)
 
-![<Internet Use image>](Images/internet_use.jpeg "Images/internet_use.jpeg" height="200", width="300")
+![<Internet Use image>](Images/internet_use.jpeg "Images/internet_use.jpeg", "height"=200, "width"=300)
 
 
 ## Business Problem
@@ -55,7 +55,7 @@ This model is used to generate predictions for the test data (test.csv).
 
 The best performing model received a Quadratic Weighted Kappa score of 0.2__. This is an improvement from the baseline model, which received a QWK score of about 0.2047. 
 This is still not a very good value, as we want the QWK to be as close to 1.0 as possible.
-
+![<# alt text #>](Images/conf_matrix.png "conf_matrix.png")
 ## Conclusion
 
 #### Limitations:
