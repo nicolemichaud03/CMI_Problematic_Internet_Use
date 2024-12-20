@@ -53,8 +53,8 @@ This model is used to generate predictions for the test data (test.csv).
 
 ## Results
 
-The best performing model, when tested using an unseen portion of the train dataset, received a Quadratic Weighted Kappa score of 0.2__. 
-This is an improvement from the baseline model, which received a QWK score of about 0.2047. 
+The best performing model, when tested using an unseen portion of the train dataset, received a Quadratic Weighted Kappa score of 0.7252. 
+This is an improvement from the baseline model, which received a QWK score of about 0.2019. 
 This is still not a very good value, as we want the QWK to be as close to 1.0 as possible.
 
 ![Confusion Matrix](Images/conf_matrix.png "conf_matrix.png")
